@@ -12,6 +12,8 @@
 npm scripts
 node modules 
 .bin - check
+
+.gitignore, .gitkeep, .licence
  
 
 
