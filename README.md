@@ -13,7 +13,7 @@ npm scripts
 node modules 
 .bin - check
 
-.gitignore, .gitkeep, .licence
+.gitignore, .gitkeep, .licence (MIT, Apache 2.0)
  
 
 
