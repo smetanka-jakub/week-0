@@ -1,6 +1,6 @@
 # Week 0
 
-- shortcuts in vs code
+- shortcuts in vs code (https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
  go back, split screen, action (ctrl + shift + P)
 
 - extensions 
